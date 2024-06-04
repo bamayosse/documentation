@@ -57,10 +57,10 @@
         "jshint-stylish": "2.2.1",
         "json2csv": "^4.5.2",
         "lazypipe": "1.0.2",
-        "lodash": "^4.17.20",
-        "marked": "^1.2.7",
+        "lodash": "^4.17.21",
+        "marked": "^4.0.10",
         "merge-stream": "2.0.0",
-        "minimist": "^1.2.5",
+        "minimist": "^1.2.6",
         "mixitup": "^3.3.1",
         "mousetrap": "^1.6.5",
         "picturefill": "3.0.2",
@@ -98,7 +98,7 @@
         "rimraf": "^3.0.2",
         "run-sequence": "^2.2.1",
         "sass": "^1.26.10",
-        "serialize-javascript": "^2.1.1"
+        "serialize-javascript": "^3.1.0"
     },
     "hugo-bin": {
         "buildTags": "extended"
